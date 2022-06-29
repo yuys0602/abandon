@@ -1,0 +1,12 @@
+torch>=1.11
+torchvision
+torchaudio
+pytorch-lightning>=1.6.4
+transformers>=4.20
+hydra_core>=1.2
+matplotlib>=3.5
+scikit-learn>=1.1
+onnx>=1.11
+onnxruntime>=1.11
+tensorboard>=2.9
+ipdb
